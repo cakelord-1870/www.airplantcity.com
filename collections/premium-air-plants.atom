@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.airplantcity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.airplantcity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.airplantcity.com/collections/premium-air-plants.atom"/>
+  <title>Air Plant City</title>
+  <updated>2021-08-12T13:38:32-04:00</updated>
+  <author>
+    <name>Air Plant City</name>
+  </author>
+  <entry>
+    <id>https://www.airplantcity.com/products/6590139859043</id>
+    <published>2021-08-12T13:38:32-04:00</published>
+    <updated>2021-08-12T13:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/air-plant-mister"/>
+    <title>Packs of 1, 3 or 5 Tillandsia Air Plant Mister</title>
+    <s:type>Plant Mister</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/AirPlantCitySprayMisterTillandsia_2_d9aff20b-321c-478c-89e4-fad92bede2b5.jpg?v=1628789900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>Plant Mister<br>
+        <strong>Price: </strong>
+            8.95 - 35.80
+            <a href="https://www.airplantcity.com/products/air-plant-mister">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span mce-data-marked="1">This chic air plant mister makes watering day fun and easy</span></li>
+<li type="disc">Can be used with fertilizer </li>
+<li type="disc">Premix fertilizer in a larger container to maintain the correct ratio</li>
+<li type="disc">8 ounce volume</li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Volume</strong></td>
+</tr>
+<tr>
+<td>  Inches</td>
+<td> Inches</td>
+<td>8 OZ</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant mister</s:tag>
+    <s:tag>Mister</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>Single Mister</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>3 pack - Save 10%</title>
+      <s:price currency="USD">24.17</s:price>
+      <s:sku>3-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>5 pack - Save 20%</title>
+      <s:price currency="USD">35.80</s:price>
+      <s:sku>5-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/6590306877539</id>
+    <published>2021-08-12T13:29:18-04:00</published>
+    <updated>2021-08-12T13:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/air-plant-mister-1"/>
+    <title>Tillandsia Air Plant Mister</title>
+    <s:type>Plant Mister</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/AirPlantCitySprayMisterTillandsia_2.jpg?v=1628789319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>Plant Mister<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span mce-data-marked="1">This chic air plant mister makes watering day fun and easy</span></li>
+<li type="disc">Can be used with fertilizer </li>
+<li type="disc">Premix fertilizer in a larger container to maintain the correct ratio</li>
+<li type="disc">8 ounce volume</li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Volume</strong></td>
+</tr>
+<tr>
+<td>  Inches</td>
+<td> Inches</td>
+<td>8 OZ</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant mister</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>Mister</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590306877539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/6589728260195</id>
+    <published>2021-06-11T14:00:18-04:00</published>
+    <updated>2021-06-11T14:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-capitata-salmon-air-plants"/>
+    <title>Tillandsia Capitata Salmon Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Tillandsia_Capitata_Salmon_070d73e5-0098-450e-9f70-ea6bfdf4b7ad.jpg?v=1624592566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            15.00 - 25.00
+            <a href="https://www.airplantcity.com/products/tillandsia-capitata-salmon-air-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a href="#tab1" class="active">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li id="tab1" class="active">
+<ul>
+<li>
+<strong>FORM: </strong><span>Tillandsia 'Capitata Salmon' are fun, curly little air plants with gorgeous silvery green leaves. Its shape is a somewhat symmetrical rosette. When it blooms the leaves blush beautiful shades of orange and pink</span>
+</li>
+<li>
+<strong>COLOR:</strong> Silvery green leaves that blush orange/pink in bloom. Purple blossom.</li>
+<li>
+<strong>WATER:</strong> Misting Weekly with a long bath Monthly</li>
+<li>
+<strong>MOUNTING:</strong> Open container or wood mounting.</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico, Cuba, Guatemala, Honduras and the Dominican Republic</li>
+</ul>
+</li>
+<li id="tab2">
+<table width="100%" data-mce-fragment="1" data-mce-selected="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><b data-mce-fragment="1">Size</b></td>
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">Width</strong></td>
+<td data-mce-fragment="1" data-mce-selected="1"><b data-mce-fragment="1">Height</b></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">Small</strong></td>
+<td data-mce-fragment="1" data-mce-selected="1"> 4-5 Inches</td>
+<td data-mce-fragment="1" data-mce-selected="1">6-8 Inches<br data-mce-fragment="1">
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">Large</strong></td>
+<td data-mce-fragment="1" data-mce-selected="1">5-6 Inches</td>
+<td data-mce-fragment="1" data-mce-selected="1"><span data-mce-fragment="1">10-12 Inches</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capitata</s:tag>
+    <s:tag>capitata salmon</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6589728260195</id>
+      <title>Small</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>1-SM-CAPITATA SALMON</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6589728260195</id>
+      <title>Large</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>1-LG-CAPITATA SALMON</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/6589726163043</id>
+    <published>2021-06-11T13:44:56-04:00</published>
+    <updated>2021-06-11T13:44:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/giant-tillandsia-tectorum-ecuador-air-plants"/>
+    <title>Giant Tillandsia Tectorum Ecuador Air Plants</title>
+    <s:type>airplant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Tillandsia_Air_Plant_Jumbo_Tectorum_2.jpg?v=1623267217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>airplant<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> Available in limited quantities only. One of the most sought-after tillandsia that we have! <span>An adorable easy care plant. The trichomes create the bright white appearance. The inflorescence (spike) is purple with lavender blooms.</span>
+</li>
+<li>
+<strong>COLOR:</strong> White and fluffy</li>
+<li>
+<strong>WATER:</strong> <span>Tillandsia Tectorum likes to be misted lightly daily in a drier climate if there isn't sufficient dew in the morning or a mid level of humidity. It needs to dry rather quickly so a light to medium mist is sufficient. It does not do well in high heat with heavy humidity since it needs to dry sufficiently. Make sure it gets lots of air circulation if outdoors in humid condition</span>
+</li>
+<li>
+<strong>MOUNTING: </strong>Excellent globe plant</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Ecuador, Peru, Bolivia</li>
+</ul>
+</li>
+<li id="tab2">
+<table width="200">
+<tbody>
+<tr>
+<td style="width: 140px;"><strong>Size</strong></td>
+<td style="width: 176px;"><strong>Width</strong></td>
+<td style="width: 176px;"><strong>Height</strong></td>
+</tr>
+<tr>
+<td style="width: 140px;"><strong>Giant</strong></td>
+<td style="width: 176px;">About 12 inches</td>
+<td style="width: 176px;">About 12 inches<br>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>ecuador</s:tag>
+    <s:tag>Giant Tectorum</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tectorum</s:tag>
+    <s:tag>tectorum ecuador</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6589726163043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>1-Giant Tectorum</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/6538404298851</id>
+    <published>2021-03-04T12:27:46-05:00</published>
+    <updated>2021-03-04T12:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/3-for-30-tillandsia-xerographica-limited-time-special"/>
+    <title>Medium Tillandsia Xerographica - 3 for $30 Special - Limited Time</title>
+    <s:type></s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Xerographica-82_8def5f65-33f2-4f87-84d8-3db7b51ee681.jpg?v=1614878897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00 - 90.00
+            <a href="https://www.airplantcity.com/products/3-for-30-tillandsia-xerographica-limited-time-special">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>MEDIUM XEROGRAPHICA 3 for $3. Coupon codes do not apply to this special price: </strong>Silvery light green in color, Xerographica is one of the more rare varieties. Thick, wide leaves form a tight rosette of curls with the thin, spiky new growth sprouting from the center adding a beautiful contrast in form.</li>
+<li><span><strong>DISPLAY:</strong> The large Xerographicas looks beautiful on its own while the small plants look great when grouped in multiples.</span></li>
+<li>
+<strong>COLOR:</strong> Minty green with tinges of pin. Spectacular blossom when in bloom.</li>
+<li>
+<strong>WATER:</strong> Soak once a week. Leave upside so that water drips out of the center.</li>
+<li>
+<strong>MOUNTING: </strong>Great for large displays and driftwood</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico and Guatemala</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Width</strong></td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>3-4 Inches</td>
+<td>5-6 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:tag>xero</s:tag>
+    <s:tag>xerographica</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6538404298851</id>
+      <title>3-Pack</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>3-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6538404298851</id>
+      <title>6-Pack</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>6-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6538404298851</id>
+      <title>9-Pack</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>9-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9433404803</id>
+    <published>2020-12-16T15:34:48-05:00</published>
+    <updated>2020-12-16T15:34:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-heathers-blush-air-plants"/>
+    <title>Tillandsia &apos;Heather&apos;s Blush Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Heather_Blush-129_bf26844c-922e-4233-84b0-48a316f804b7.jpg?v=1571317294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            11.50 - 46.00
+            <a href="https://www.airplantcity.com/products/tillandsia-heathers-blush-air-plants">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> <span>Heather's Blush is a large, showy hybrid air plant. It's leaves are curly, smooth, and shiny green</span>
+</li>
+<li>
+<strong>COLOR:</strong> Light mint green leaves with a purplish tint in blush. Produces a pink flower in bloom. Occasionally has pink or purple mottling on the leaves.</li>
+<li>
+<strong>WATER: </strong>Weekly misting, occasional soak</li>
+<li>
+<strong>MOUNTING:</strong> Great on driftwood, cork, and larger displays</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Hybrid</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 22px;"><strong>Width</strong></td>
+<td style="height: 22px;"><strong>Height</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px;"> 3-4 Inches</td>
+<td style="height: 22px;"> 4-7 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<h3><span style="color: #ff9900;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>heathers blush</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433404803</id>
+      <title>Single Plant</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>1-HEATHER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433404803</id>
+      <title>3 Pack - Save 10%</title>
+      <s:price currency="USD">31.05</s:price>
+      <s:sku>3-HEATHER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433404803</id>
+      <title>5 Pack - Save 20%</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5-HEATHER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9273056195</id>
+    <published>2020-12-16T15:33:29-05:00</published>
+    <updated>2020-12-16T15:33:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-bulbosa-air-plants"/>
+    <title>Tillandsia Bulbosa Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Bulbosa-10.jpg?v=1571317289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            4.95 - 31.80
+            <a href="https://www.airplantcity.com/products/tillandsia-bulbosa-air-plants">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> Bright <span>grassy green with magenta accents, these guys have smooth and shiny arms making them look very different from most of the other fuzzy, scale-covered plants.</span>
+</li>
+<li>
+<strong>COLOR:</strong> Dark green with purple-red accents.</li>
+<li>
+<strong>WATER:</strong> Misting weekly, more often in dry conditions.</li>
+<li>
+<strong>MOUNTING:</strong> Excellent for most displays. Globe Terrariums, shells</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Guatemala (smaller) Belize (larger)</li>
+</ul>
+</li>
+<li id="tab2">
+<table style="height: 106px;" width="200">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td><strong>Regular (Guatemala)</strong></td>
+<td>3-5 Inches</td>
+<td>3-5 Inches</td>
+</tr>
+<tr>
+<td><strong>Large (Belize)</strong></td>
+<td>3-5 Inches</td>
+<td>6-9 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulbosa</s:tag>
+    <s:tag>bulbosa guatemala</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Regular - Guatemalan Form / Single Plant</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-BULB GUAT</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Regular - Guatemalan Form / 3 Pack - Save 10%</title>
+      <s:price currency="USD">13.37</s:price>
+      <s:sku>3-BULB GUAT</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Regular - Guatemalan Form / 5 Pack - Save 20%</title>
+      <s:price currency="USD">19.80</s:price>
+      <s:sku>5-BULB GUAT</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Large - Belize Form / Single Plant</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>1-BULB BELIZE</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Large - Belize Form / 3 Pack - Save 10%</title>
+      <s:price currency="USD">21.47</s:price>
+      <s:sku>3-BULB BELIZE</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273056195</id>
+      <title>Large - Belize Form / 5 Pack - Save 20%</title>
+      <s:price currency="USD">31.80</s:price>
+      <s:sku>5-BULB BELIZE</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/3584758284387</id>
+    <published>2020-06-19T12:42:06-04:00</published>
+    <updated>2020-06-19T12:42:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/medium-tillandsia-xerographica-3-for-30-limited-time"/>
+    <title>Beautiful Seedling Tillandsia Xerographica - 3 for $25 Special - Limited Time</title>
+    <s:type></s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Xerographica-73_1800x_bd1c8d37-fcb0-4624-aba9-e78c04cd40c1.jpg?v=1582835602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 75.00
+            <a href="https://www.airplantcity.com/products/medium-tillandsia-xerographica-3-for-30-limited-time">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>SEEDLING XEROGRAPHICA 3 for $25. Coupon codes not applicable to this special offer. </strong>Silvery light green in color, Xerographica is one of the more rare varieties. Thick, wide leaves form a tight rosette of curls with the thin, spiky new growth sprouting from the center adding a beautiful contrast in form. These are beautiful, symmetric plants that are sustainably grown by seed in Guatemala. Purchasing these plants helps support sustainable air plant farming practices.</li>
+<li><span><strong>DISPLAY:</strong> The Xerographica looks beautiful on its own while the small plants look great when grouped in multiples.</span></li>
+<li>
+<strong>COLOR:</strong> Minty green with tinges of pin. Spectacular blossom when in bloom.</li>
+<li>
+<strong>WATER:</strong> Soak once a week. Leave upside so that water drips out of the center.</li>
+<li>
+<strong>MOUNTING: </strong>Great for large displays and driftwood</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico and Guatemala</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Width</strong></td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>1-2 Inches</td>
+<td>2-4 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:tag>xero</s:tag>
+    <s:tag>xerographica</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/3584758284387</id>
+      <title>3-Pack</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>3-SEEDLING-XERO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/3584758284387</id>
+      <title>6-Pack</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>6-SEEDLING-XERO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/3584758284387</id>
+      <title>9-Pack</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>9-SEEDLING-XERO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/10892377475</id>
+    <published>2020-01-21T14:46:19-05:00</published>
+    <updated>2020-01-21T14:46:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-streptophylla-pure-form-air-plants"/>
+    <title>Curly Tillandsia Streptophylla - Pure - Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Streptophylla-67.jpg?v=1571317299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            7.95 - 11.95
+            <a href="https://www.airplantcity.com/products/tillandsia-streptophylla-pure-form-air-plants">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> <gs class="GINGER_SOFTWARE_mark" ginger_software_uiphraseguid="49f3ea05-b246-4d6f-bd84-04c295517656" id="ce1281e2-683f-4200-9f0b-8795240f756d">Streptophylla</gs><span> Air Plants are a curly, irregular </span><gs class="GINGER_SOFTWARE_mark" ginger_software_uiphraseguid="49f3ea05-b246-4d6f-bd84-04c295517656" id="954efecc-b7c9-4863-836b-374309a6b1a8">tillandsia</gs><span> with thick, pastel-green leaves. The ends of the leaves have the tendency to curl under the base of the plant. Some have commented that Streptophylla look like a very small </span><gs class="GINGER_SOFTWARE_mark" ginger_software_uiphraseguid="56d3e86b-5600-4151-af7e-9cc97e1cf119" id="2c85acf1-1fd4-4933-b645-52bb890f70d2">xerographica</gs><span>. These are currently available in very limited quantities.</span>
+</li>
+<li>
+<strong>COLOR:</strong> Green with deep red blush</li>
+<li>
+<strong>WATER: </strong>Misting 2-3 per week</li>
+<li>
+<strong>MOUNTING:</strong> Mounts well on Wood.</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Guatemala and Mexico</li>
+</ul>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Width</strong></td>
+</tr>
+<tr>
+<td>Small</td>
+<td>1-2 Inches</td>
+</tr>
+<tr>
+<td>Medium</td>
+<td>2-4 Inches</td>
+</tr>
+<tr>
+<td>Large</td>
+<td>4+ Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>eric knoblock</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>streptophylla</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/10892377475</id>
+      <title>Small</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>1-SM-CURLY-PURE-STREPTO</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/10892377475</id>
+      <title>Medium</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>1-MD-CURLY-PURE-STREPTO</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/10892377475</id>
+      <title>Large</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>1-LG-CURLY-PURE-STREPTO</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1486675869795</id>
+    <published>2019-06-28T14:58:51-04:00</published>
+    <updated>2019-06-28T14:58:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-flabellata-air-plants"/>
+    <title>Tillandsia Flabellata Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Flabellata-90.jpg?v=1571317302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            4.95 - 6.95
+            <a href="https://www.airplantcity.com/products/tillandsia-flabellata-air-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM: </strong>Tillandsia Flabellata is an air plant with thick, shiny leaves. The leaves range from a deep green to a maroon.Our plants are the vigorous Guatemalan variant. They are relatively quick growers and can get as tall as 12 inches. When in bloom, a simple orange to red bloom is produced.</li>
+<li>
+<strong>COLOR:</strong> Green and red 'rubra' forms</li>
+<li>
+<strong>WATER:</strong> Mist often and soak once a week</li>
+<li>
+<strong>MOUNTING: </strong>This is one of the few species that can actually be planted in well-draining orchid mix or sphagnum moss (similar to T. Cyanea). Otherwise, display like other tillandsia in terrariums, wood or other containers.</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Central America</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td><strong>Regular</strong></td>
+<td>3-5 Inches</td>
+<td>5-7 Inches</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>5-7 Inches</td>
+<td>6-9 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>stricta</s:tag>
+    <s:tag>stricta hybrid</s:tag>
+    <s:tag>stricta soft leaf</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486675869795</id>
+      <title>Regular</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-FLABELLATA</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486675869795</id>
+      <title>Large</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>1-LG-FLABELLATA</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9433402115</id>
+    <published>2019-03-19T12:04:27-04:00</published>
+    <updated>2019-03-19T12:04:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-brachycaulos-x-concolor-sparkler-air-plants"/>
+    <title>Tillandsia Brachycaulos X Concolor &apos;Sparkler&apos; Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Sparkler-Brachycaulos-Concolor-146_081d2eb8-1ff9-4026-bc1e-dbe425a37fda.jpg?v=1571317294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            11.50 - 46.00
+            <a href="https://www.airplantcity.com/products/tillandsia-brachycaulos-x-concolor-sparkler-air-plants">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> <span>'Sparkler' is a large, showy hybrid air plant. It's leave are straight, smooth, and a shiny deep green. When in bloom, this species sends a long stalk of red and purple flowers like a 4th of July sparkler! </span>
+</li>
+<li>
+<strong>COLOR:</strong> Forest green leaves that turn burgundy when the plant is in bloom</li>
+<li>
+<strong>WATER: </strong>Weekly misting, occasional soak</li>
+<li>
+<strong>MOUNTING:</strong> Great in small red pots and glass orbs</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Hybrid; parents Brachycaulos and Concolor</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 22px;"><strong>Width</strong></td>
+<td style="height: 22px;"><strong>Height</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px;"> 4-7 Inches</td>
+<td style="height: 22px;"> 4-7 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<h3><span style="color: #ff9900;"><strong></strong></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>brachycaulos</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>concolor</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>sparkler</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433402115</id>
+      <title>Single Plant</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>1-SPARKLER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433402115</id>
+      <title>3 Pack - Save 10%</title>
+      <s:price currency="USD">31.05</s:price>
+      <s:sku>3-SPARKLER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9433402115</id>
+      <title>5 Pack - Save 20%</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5-SPARKLER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1481532768355</id>
+    <published>2019-02-25T12:44:33-05:00</published>
+    <updated>2019-02-25T12:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-funkiana-large-hanging-cluster-with-wire-hook"/>
+    <title>Tillandsia Funkiana Large Hanging Cluster with Wire Hook</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Funkiana-168.jpg?v=1571317301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li><span>A must for any collector! When left to grow on their own, Funckiana air plants produce amazing clusters of plants. Each of these clusters contains 8-15 individual plants (plus some small pups) that have naturally been natural left to grown into a family over the course of a couple of years. When in bloom, pink, orange and purple blooming colors burst from all directions. It is best to display these in a bright location. Some of our clusters contain a couple blooming plants while others are primarily green, but don't worry your's will show its colors soon! Each hanging ball comes with a wire hook for hanging.</span></li>
+<li>
+<strong>COLOR:</strong> Varying shades of blue-green with red blooms</li>
+<li>
+<strong>WATER:</strong> Mist frequuently with weekly water bath</li>
+<li>
+<strong>MOUNTING:</strong> Easy to hang with included wire hanger</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td>3-5 Inches</td>
+<td>5-8 Inches plus wire hook</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>combination</s:tag>
+    <s:tag>Funkiana cluster</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1481532768355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>1-FUNKIANA-CLUSTER</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9267961091</id>
+    <published>2017-01-05T15:41:00-05:00</published>
+    <updated>2017-01-05T15:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/set-of-3-large-tillandsia-xergraphica-40-off"/>
+    <title>Pack of 3 or 6 Tillandsia Xerographica - Save Up to 45%</title>
+    <s:type></s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Xerographica-82.jpg?v=1599751695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.13 - 95.53
+            <a href="https://www.airplantcity.com/products/set-of-3-large-tillandsia-xergraphica-40-off">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>XEROGRAPHICA: </strong>Silvery light green in color, Xerographica is one of the more rare varieties. Thick, wide leaves form a tight rosette of curls with the thin, spiky new growth sprouting from the center adding a beautiful contrast in form.</li>
+<li><span><strong>DISPLAY:</strong> The large Xerographicas looks beautiful on its own while the small plants look great when grouped in multiples.</span></li>
+<li>
+<strong>COLOR:</strong> Minty green with tinges of pin. Spectacular blossom when in bloom.</li>
+<li>
+<strong>WATER:</strong> Soak once a week. Leave upside so that water drips out of the center.</li>
+<li>
+<strong>MOUNTING: </strong>Great for large displays and driftwood</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico and Guatemala</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Width</strong></td>
+</tr>
+<tr>
+<td><strong>Small/Mini</strong></td>
+<td>2-4 Inches</td>
+<td>3-4 Inches</td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>3-4 Inches</td>
+<td>5-6 Inches</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>3-5 Inches</td>
+<td>6-8 Inches</td>
+</tr>
+<tr>
+<td><strong>Jumbo</strong></td>
+<td>5-7 Inches</td>
+<td>8-10 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:tag>xero</s:tag>
+    <s:tag>xerographica</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Small/Mini / 3 Pack - 25% Off</title>
+      <s:price currency="USD">29.13</s:price>
+      <s:sku>3-SM-XERO(3-4INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Small/Mini / 6 Pack - 45% Off</title>
+      <s:price currency="USD">42.73</s:price>
+      <s:sku>6-SM-XERO(3-4INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Medium / 3 Pack - 25% Off</title>
+      <s:price currency="USD">35.89</s:price>
+      <s:sku>3-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Medium / 6 Pack - 45% Off</title>
+      <s:price currency="USD">59.23</s:price>
+      <s:sku>6-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Large / 3 Pack - 25% Off</title>
+      <s:price currency="USD">40.39</s:price>
+      <s:sku>3-LG-XERO(6-8INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Large / 6 Pack - 45% Off</title>
+      <s:price currency="USD">62.21</s:price>
+      <s:sku>6-LG-XERO(6-8INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Jumbo / 3 Pack - 25% Off</title>
+      <s:price currency="USD">65.14</s:price>
+      <s:sku>3-JUMBO-XERO(8-10INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9267961091</id>
+      <title>Jumbo / 6 Pack - 45% Off</title>
+      <s:price currency="USD">95.53</s:price>
+      <s:sku>6-JUMBO-XERO(8-10INCH)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9273942979</id>
+    <published>2017-01-05T14:13:00-05:00</published>
+    <updated>2017-01-05T14:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-stricta-hybrid-air-plants"/>
+    <title>Tillandsia Stricta Hybrid Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Stricta-124.jpg?v=1571317291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            9.95 - 39.80
+            <a href="https://www.airplantcity.com/products/tillandsia-stricta-hybrid-air-plants">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>LARGE FORM: </strong>It's leave are curved, velvety, and a light green. When in bloom, this species sends a long of pastel pink flowers. A great collector's tillandsia. Currently these are very large; up to 7 inches wide with a thick, symmetrical rosette shape.</li>
+<li>
+<strong>COLOR:</strong> Pale green with a center bright pink center spike when in bloom</li>
+<li>
+<strong>WATER:</strong> Mist often and soak once a week</li>
+<li>
+<strong>MOUNTING: </strong>All mediums, excellent on cork bark and driftwood</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Hybrid</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td>5-7 Inches</td>
+<td>4-5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>stricta</s:tag>
+    <s:tag>stricta hybrid</s:tag>
+    <s:tag>stricta soft leaf</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273942979</id>
+      <title>Single Plant</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>1-STRICTA</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273942979</id>
+      <title>3 Pack - Save 10%</title>
+      <s:price currency="USD">26.87</s:price>
+      <s:sku>3-STRICTA</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9273942979</id>
+      <title>5 Pack - Save 20%</title>
+      <s:price currency="USD">39.80</s:price>
+      <s:sku>5-STRICTA</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274127939</id>
+    <published>2017-01-05T14:07:00-05:00</published>
+    <updated>2017-01-05T14:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-xerographica-air-plants"/>
+    <title>Tillandsia Xerographica Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Xerographica-80_87303431-79f6-4db2-a1cf-e536d40c998f.jpg?v=1571317291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            8.95 - 42.95
+            <a href="https://www.airplantcity.com/products/tillandsia-xerographica-air-plants">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>XEROGRAPHICA: </strong>Silvery light green in color, Xerographica is one of the more rare varieties. Thick, wide leaves form a tight rosette of curls with the thin, spiky new growth sprouting from the center adding a beautiful contrast in form.</li>
+<li><span><strong>DISPLAY:</strong> The large Xerographicas looks beautiful on its own while the small plants look great when grouped in multiples.</span></li>
+<li>
+<strong>COLOR:</strong> Minty green with tinges of pin. Spectacular blossom when in bloom.</li>
+<li>
+<strong>WATER:</strong> Soak once a week. Leave upside so that water drips out of the center.</li>
+<li>
+<strong>MOUNTING: </strong>Great for large displays and driftwood</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico and Guatemala</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Width</strong></td>
+</tr>
+<tr>
+<td><strong>Seedling</strong></td>
+<td>1-2 Inches</td>
+<td>2-3 Inches</td>
+</tr>
+<tr>
+<td><strong>Small/Mini</strong></td>
+<td>2-4 Inches</td>
+<td>3-4 Inches</td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>3-4 Inches</td>
+<td>5-6 Inches</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>3-5 Inches</td>
+<td>6-8 Inches</td>
+</tr>
+<tr>
+<td><strong>Jumbo</strong></td>
+<td>5-7 Inches</td>
+<td>8-10 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>xero</s:tag>
+    <s:tag>xerographica</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274127939</id>
+      <title>Seedling</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1-SEEDLING-XERO(2-3INCH)</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274127939</id>
+      <title>Small / Mini</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>1-SM-XERO(3-4INCH)</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274127939</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1-MD-XERO(5-6INCH)</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274127939</id>
+      <title>Large</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>1-LG-XERO(6-8INCH)</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274127939</id>
+      <title>Jumbo</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>1-JUMBO-XERO(8-10INCH)</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/399777366056</id>
+    <published>2017-01-05T14:06:00-05:00</published>
+    <updated>2017-01-05T14:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-tectorum-ecuador-air-plants-save-up-to-25"/>
+    <title>Pack of 3, 6 or 9 Tillandsia Tectorum Ecuador Air Plants - Save Up to 25%</title>
+    <s:type>Air Plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Tectorum-Ecuador-116.jpg?v=1571317300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>Air Plant<br>
+        <strong>Price: </strong>
+            29.14 - 107.66
+            <a href="https://www.airplantcity.com/products/tillandsia-tectorum-ecuador-air-plants-save-up-to-25">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> One of the most sought-after tillandsia that we have! <span>An adorable easy care plant. The trichomes create the bright white appearance. The inflorescence (spike) is purple with lavender blooms.</span>
+</li>
+<li>
+<strong>COLOR:</strong> White and fluffy</li>
+<li>
+<strong>WATER:</strong> <span>Tillandsia Tectorum likes to be misted lightly daily in a drier climate if there isn't sufficient dew in the morning or a mid level of humidity. It needs to dry rather quickly so a light to medium mist is sufficient. It does not do well in high heat with heavy humidity since it needs to dry sufficiently. Make sure it gets lots of air circulation if outdoors in humid condition</span>
+</li>
+<li>
+<strong>MOUNTING: </strong>Excellent globe plant</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Ecuador, Peru, Bolivia</li>
+</ul>
+</li>
+<li id="tab2">
+<table width="200">
+<tbody>
+<tr>
+<td style="width: 140px;"><strong>Size</strong></td>
+<td style="width: 176px;"><strong>Width</strong></td>
+<td style="width: 176px;"><strong>Height</strong></td>
+</tr>
+<tr>
+<td style="width: 140px;"><strong>Regular</strong></td>
+<td style="width: 176px;">2-3 Inches</td>
+<td style="width: 176px;">1-2 Inches</td>
+</tr>
+<tr>
+<td style="width: 140px;"><strong>Large</strong></td>
+<td style="width: 176px;">3-4 Inches</td>
+<td style="width: 176px;">2-3 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>ecuador</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tectorum</s:tag>
+    <s:tag>tectorum ecuador</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>3 Pack - Save 25% / Regular</title>
+      <s:price currency="USD">29.14</s:price>
+      <s:sku>3-SM-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>6 Pack - Save 25% / Regular</title>
+      <s:price currency="USD">58.27</s:price>
+      <s:sku>6-SM-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>9 Pack - Save 25% / Regular</title>
+      <s:price currency="USD">87.42</s:price>
+      <s:sku>9-SM-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>3 Pack - Save 25% / Large</title>
+      <s:price currency="USD">35.88</s:price>
+      <s:sku>3-LG-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>6 Pack - Save 25% / Large</title>
+      <s:price currency="USD">71.78</s:price>
+      <s:sku>6-LG-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/399777366056</id>
+      <title>9 Pack - Save 25% / Large</title>
+      <s:price currency="USD">107.66</s:price>
+      <s:sku>9-LG-TECTORUM</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9346511619</id>
+    <published>2017-01-05T14:04:00-05:00</published>
+    <updated>2017-01-05T14:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/tillandsia-concolor-air-plants"/>
+    <title>Tillandsia Concolor Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Concolor-162.jpg?v=1571317293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            8.95 - 79.80
+            <a href="https://www.airplantcity.com/products/tillandsia-concolor-air-plants">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ul>
+<li>
+<strong>FORM:</strong> <span>Concolor is a spiky air plant that readily hybridizes with other air plant varieties.  It's leave are spiky, rigid, and blush yellow during bloom. When in bloom, this species sends a tall orange and yellow inflorescence. </span>
+</li>
+<li>
+<strong>COLOR:</strong> Dark green silvery leaves that blush red.</li>
+<li>
+<strong>WATER:</strong> Misting or water but let dry out quickly and fully between waterings</li>
+<li>
+<strong>MOUNTING:</strong> Super great in Globes, wood, terrarium, etc</li>
+<li>
+<strong>NATIVE HABITAT:</strong> Mexico</li>
+</ul>
+</li>
+<li id="tab2">
+<table style="height: 106px;" width="200">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td><strong>Regular</strong></td>
+<td>3-5 Inches</td>
+<td>3-5 Inches</td>
+</tr>
+<tr>
+<td><strong>Large - Variety '<span>Cuicatlán'</span></strong></td>
+<td>5-7 Inches</td>
+<td>8-12 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>bulk air plants</s:tag>
+    <s:tag>concolor</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Regular / Single Plant</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CONCOLOR-1</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Regular / 3 Pack - Save 10%</title>
+      <s:price currency="USD">24.17</s:price>
+      <s:sku>CONCOLOR-3</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Regular / 5 Pack - Save 20%</title>
+      <s:price currency="USD">35.80</s:price>
+      <s:sku>CONCOLOR-5</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Large -  &apos;Cuicatlán&apos; / Single Plant</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1-CUICATLAN</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Large -  &apos;Cuicatlán&apos; / 3 Pack - Save 10%</title>
+      <s:price currency="USD">53.87</s:price>
+      <s:sku>3-CUICATLAN</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9346511619</id>
+      <title>Large -  &apos;Cuicatlán&apos; / 5 Pack - Save 20%</title>
+      <s:price currency="USD">79.80</s:price>
+      <s:sku>5-CUICATLAN</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9278538051</id>
+    <published>2017-01-05T14:04:00-05:00</published>
+    <updated>2017-01-05T14:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/10-medium-large-premium-tillandsia-air-plants"/>
+    <title>10 Medium &amp; Large Premium Tillandsia Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Classic-183.jpg?v=1571317292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            36.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a href="#tab1" class="active">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li id="tab1" class="active">
+<ul>
+<li><span><strong>COMBINATION PACK:</strong> Brachycaulos Abdita, Streptophylla Hybrid, Sparkler, Heather's Blush, Fasciculata, Stricta, Juncea, Harrisii, and Capitata Peach. The Selection can vary depending on availability and which air plants look the best. I try to send plants that are in blush, coming into the budding season.</span></li>
+<li>
+<strong>COLOR:</strong> Varying shades of green with occasional blooming colors depending on season </li>
+<li>
+<strong>WATER:</strong> Mist with weekly water bath</li>
+<li>
+<strong>MOUNTING:</strong> Great for driftwood and larger displays</li>
+</ul>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 2-4 Inches</td>
+<td> 5-9 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>abdita</s:tag>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant grab bag</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>brachycaulos</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>capitata peach</s:tag>
+    <s:tag>fasciculata</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>Harrisii</s:tag>
+    <s:tag>heathers blush</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>juncea</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>large air plants</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>sparkler</s:tag>
+    <s:tag>streptophylla</s:tag>
+    <s:tag>stricta</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9278538051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.75</s:price>
+      <s:sku>5-COLLECTORS CHOICE 5-CLASSIC</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

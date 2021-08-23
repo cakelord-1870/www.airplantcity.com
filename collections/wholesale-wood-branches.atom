@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.airplantcity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.airplantcity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.airplantcity.com/collections/wholesale-wood-branches.atom"/>
+  <title>Air Plant City</title>
+  <updated>2019-03-26T13:26:10-04:00</updated>
+  <author>
+    <name>Air Plant City</name>
+  </author>
+  <entry>
+    <id>https://www.airplantcity.com/products/1481530769507</id>
+    <published>2019-03-26T13:26:10-04:00</published>
+    <updated>2019-03-26T13:26:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/wholesale-natural-cholla-cactus-containers-with-air-plants"/>
+    <title>Wholesale - Natural Cholla Cactus Containers with Air Plants</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Cholla-195.jpg?v=1571317301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            4.95 - 5.95
+            <a href="https://www.airplantcity.com/products/wholesale-natural-cholla-cactus-containers-with-air-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+<li><a href="#tab3">Wholesale Information</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc">
+<p>Cholla is a cactus found in the desert SW and Northern Mexico. After several years, old wood naturally dies and can be removed from the plants. After an intensive cleaning and removal of the thorns, we are left with a unique product that is great for displaying air plants. Assorted air plants are included for every cholla container purchased.</p>
+</li>
+</ol>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><b>Dimensions</b></td>
+</tr>
+<tr>
+<td><strong>Regular</strong></td>
+<td>3 Inches Tall and 1.5 Inches Wide</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>6 Inches Tall and 1.5 Inches Wide</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab3">
+<ol>
+<li type="disc"><strong>Wholesale Minimum Order of 12 containers required (You can mix regular and large).</strong></li>
+<li type="disc"><strong>Air plants are included</strong></li>
+<li type="disc">Wholesale to the Public.  No Tax ID Required.</li>
+<li type="disc">Plants Covered by Our <strong><a href="https://airplantcity.myshopify.com/pages/air-plant-guarantee">30 Day Guarantee</a></strong>
+</li>
+<li type="disc">Taxes only charged to orders shipped to the State of Florida. If you are a re-seller in Florida, email us and we will refund your sales tax. </li>
+<li type="disc">Learn more about our <strong><a href="https://airplantcity.myshopify.com/pages/wholesale-air-plant">Wholesale Program</a></strong>
+</li>
+</ol>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant container</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>branches</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>drift wood</s:tag>
+    <s:tag>driftwood</s:tag>
+    <s:tag>grapevine wood</s:tag>
+    <s:tag>grapewood</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>mopane wood</s:tag>
+    <s:tag>mopani wood</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>rustic wood</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia holder</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1481530769507</id>
+      <title>Regular</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>WHOLESALE-SM CHOLLA-PLANTS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1481530769507</id>
+      <title>Large</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>WHOLESALE-LG CHOLLA-PLANTS</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1481528672355</id>
+    <published>2019-03-26T13:26:10-04:00</published>
+    <updated>2019-03-26T13:26:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/wholesale-natural-cholla-cactus-containers"/>
+    <title>Wholesale - Natural Cholla Cactus Containers</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Cholla-189_b7574a23-a8e5-4b46-a365-2152776308da.jpg?v=1571317301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            3.95 - 4.95
+            <a href="https://www.airplantcity.com/products/wholesale-natural-cholla-cactus-containers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+<li><a href="#tab3">Wholesale Information</a></li>
+</ul>
+<!--Start tab content-->
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc">
+<p>Cholla is a cactus found in the desert SW and Northern Mexico. After several years, old wood naturally dies and can be removed from the plants. After an intensive cleaning and removal of the thorns, we are left with a unique product that is great for displaying air plants. </p>
+</li>
+</ol>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><b>Dimensions</b></td>
+</tr>
+<tr>
+<td><strong>Regular</strong></td>
+<td>3 Inches Tall and 1.5 Inches Wide</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>6 Inches Tall and 1.5 Inches Wide</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab3">
+<ol>
+<li type="disc"><strong>Wholesale Minimum Order of 12 containers required (You can mix regular and large).</strong></li>
+<li type="disc">Wholesale to the Public.  No Tax ID Required.</li>
+<li type="disc">Plants Covered by Our <strong><a href="https://airplantcity.myshopify.com/pages/air-plant-guarantee">30 Day Guarantee</a></strong>
+</li>
+<li type="disc">Taxes only charged to orders shipped to the State of Florida. If you are a re-seller in Florida, email us and we will refund your sales tax. </li>
+<li type="disc">Learn more about our <strong><a href="https://airplantcity.myshopify.com/pages/wholesale-air-plant">Wholesale Program</a></strong>
+</li>
+</ol>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant container</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>branches</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>drift wood</s:tag>
+    <s:tag>driftwood</s:tag>
+    <s:tag>grapevine wood</s:tag>
+    <s:tag>grapewood</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>mopane wood</s:tag>
+    <s:tag>mopani wood</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>rustic wood</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia holder</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1481528672355</id>
+      <title>Regular</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>WHOLESALE-SM CHOLLA-ONLY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1481528672355</id>
+      <title>Large</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>WHOLESALE-LG CHOLLA-ONLY</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

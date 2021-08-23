@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.airplantcity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.airplantcity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.airplantcity.com/collections/glass-terrariums.atom"/>
+  <title>Air Plant City</title>
+  <updated>2021-08-12T13:38:32-04:00</updated>
+  <author>
+    <name>Air Plant City</name>
+  </author>
+  <entry>
+    <id>https://www.airplantcity.com/products/6590139859043</id>
+    <published>2021-08-12T13:38:32-04:00</published>
+    <updated>2021-08-12T13:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/air-plant-mister"/>
+    <title>Packs of 1, 3 or 5 Tillandsia Air Plant Mister</title>
+    <s:type>Plant Mister</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/AirPlantCitySprayMisterTillandsia_2_d9aff20b-321c-478c-89e4-fad92bede2b5.jpg?v=1628789900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>Plant Mister<br>
+        <strong>Price: </strong>
+            8.95 - 35.80
+            <a href="https://www.airplantcity.com/products/air-plant-mister">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span mce-data-marked="1">This chic air plant mister makes watering day fun and easy</span></li>
+<li type="disc">Can be used with fertilizer </li>
+<li type="disc">Premix fertilizer in a larger container to maintain the correct ratio</li>
+<li type="disc">8 ounce volume</li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Volume</strong></td>
+</tr>
+<tr>
+<td>  Inches</td>
+<td> Inches</td>
+<td>8 OZ</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant mister</s:tag>
+    <s:tag>Mister</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>Single Mister</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>3 pack - Save 10%</title>
+      <s:price currency="USD">24.17</s:price>
+      <s:sku>3-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590139859043</id>
+      <title>5 pack - Save 20%</title>
+      <s:price currency="USD">35.80</s:price>
+      <s:sku>5-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/6590306877539</id>
+    <published>2021-08-12T13:29:18-04:00</published>
+    <updated>2021-08-12T13:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/air-plant-mister-1"/>
+    <title>Tillandsia Air Plant Mister</title>
+    <s:type>Plant Mister</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/AirPlantCitySprayMisterTillandsia_2.jpg?v=1628789319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>Plant Mister<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span mce-data-marked="1">This chic air plant mister makes watering day fun and easy</span></li>
+<li type="disc">Can be used with fertilizer </li>
+<li type="disc">Premix fertilizer in a larger container to maintain the correct ratio</li>
+<li type="disc">8 ounce volume</li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+<td><strong>Volume</strong></td>
+</tr>
+<tr>
+<td>  Inches</td>
+<td> Inches</td>
+<td>8 OZ</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant mister</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>Mister</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/6590306877539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>1-MISTER</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1457076109411</id>
+    <published>2019-11-22T11:12:23-05:00</published>
+    <updated>2019-11-22T11:12:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/festive-holiday-gift-wrapping"/>
+    <title>Gift Wrapping</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/c_seasonalxmas_top3_645e9414-cd2e-433f-a0c2-aaf3dd0b8688.jpg?v=1624643008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Add this listing to your cart and we will gift wrap your order.</span><br><br><span>Please note that some large or wholesale orders cannot be gift wrapped. However, we can gift wrap almost anything purchased on the retail side of our website, including: air plant variety packs, terrariums, containers, ceramic, driftwood, sea shells with air plants, mopani and grapewood arrangements. </span><br><br><span>Don't Forget to add your personalized Gift Note in the "Notes to Air Plant City" during checkout. These will print out on the gift receipt. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>double hook</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>hanging</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1457076109411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>GIFT-WRAP</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/4326523011171</id>
+    <published>2019-11-22T10:54:49-05:00</published>
+    <updated>2019-11-22T10:54:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/3-teardrop-air-plant-terrariums-complete-with-river-stones-and-air-plants"/>
+    <title>3 Teardrop Air Plant Terrariums - Complete with River Stones and Assorted Small Air Plants</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplants_tillandsia_teardrop_terrarim_16.jpg?v=1574438582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Complete kits with air plants, stones and glass globes</span></li>
+<li type="disc">Pretty gift idea</li>
+<li type="disc">Set anywhere on its flat bottom or hang from loop</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 4.5 inches tall</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 3 Inches</td>
+<td>5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass terrarium</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4326523011171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>3-TEAR-RVRKS-IONS</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/4326507741283</id>
+    <published>2019-11-19T12:43:54-05:00</published>
+    <updated>2019-11-19T12:43:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/stunning-air-plant-terrariums-kits-complete-with-stones-moss-and-vibrant-air-plants"/>
+    <title>3 Stunning Air Plant Terrariums - Complete with Stones, Moss and Vibrant Air Plants</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplants_tillandsia_glass_terrarium_trio_7.jpg?v=1574438130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Complete kits with air plants, moss, reindeer moss and glass globes</span></li>
+<li type="disc">Pretty gift idea</li>
+<li type="disc">Set anywhere on its flat bottom or hang from loop</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 4.5 inches tall</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 4 Inches</td>
+<td>4.5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass terrarium</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4326507741283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3-STUNNING</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/4302206304355</id>
+    <published>2019-10-23T10:42:14-04:00</published>
+    <updated>2019-10-23T10:42:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/packs-of-6-or-12-hanging-flat-bottom-glass-terrariums-save-40"/>
+    <title>Packs of 6 or 12 Hanging Flat Bottom Glass Terrariums - Save 20%</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/glass-_hanging_flat_bottom_d371c739-8c35-46fc-887d-22aa50f7925c.jpg?v=1571841735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            23.76 - 47.52
+            <a href="https://www.airplantcity.com/products/packs-of-6-or-12-hanging-flat-bottom-glass-terrariums-save-40">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cute glass terrariums are perfect for our small variety Ionantha air plants</span></li>
+<li type="disc">
+<span>Add your own </span>accessories or just a single air plant for a minimalist look</li>
+<li type="disc">Set anywhere on its flat bottom</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 4.5 inches tall</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 4 Inches</td>
+<td>4.5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass terrarium</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4302206304355</id>
+      <title>6 Pack - 20% Off</title>
+      <s:price currency="USD">23.76</s:price>
+      <s:sku>6-FLAT-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4302206304355</id>
+      <title>12 Pack - 20% Off</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>12-FLAT-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9713057795</id>
+    <published>2018-03-16T16:15:21-04:00</published>
+    <updated>2018-03-16T16:15:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/heptahedron-geometric-glass-terrarium-with-gold-metallic-finish"/>
+    <title>Heptahedron Geometric Glass Terrarium with Gold Metallic Finish</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Heptahedron_Glass_Terrariums_4_2970e30f-9751-4dc1-8526-dc6937af5e5b.jpg?v=1624592949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            17.75 - 85.20
+            <a href="https://www.airplantcity.com/products/heptahedron-geometric-glass-terrarium-with-gold-metallic-finish">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>A gorgeous seven-sided terrarium with gold plating. It sits beautifully on its small triangular base, angled perfectly to display your favorite tillandsia. </span></li>
+<li type="disc"><span>A handsome and trendy terrarium shape.</span></li>
+<li type="disc">
+<span>Add your </span>accessories or just an air plant for a minimalist look</li>
+<li type="disc">The terrarium measures 8.5 inches tall and wide when sitting on the triangular bottom. The sides of the square opening measure 5 inches each. </li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 8.5 Inches (diagonally across)</td>
+<td>8.5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul style="line-height: 1.4;" class="productsize"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant terrarium</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>geometric</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass teardrop</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>Heptahedron</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>modern</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:tag>triangular</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9713057795</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>1-HEPTAHEDRON-ONLY</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9713057795</id>
+      <title>3 Pack - Save 10%</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>3-HEPTAHEDRON-ONLY</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9713057795</id>
+      <title>6 Pack - Save 20%</title>
+      <s:price currency="USD">85.20</s:price>
+      <s:sku>6-HEPTAHEDRON-ONLY</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274155075</id>
+    <published>2017-01-10T17:53:00-05:00</published>
+    <updated>2017-01-10T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/hanging-globe-terrariums-with-double-hooks"/>
+    <title>Hanging Glass Terrariums with Double Hooks</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/glass-_hanging_globe_hooks.jpg?v=1571317292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            4.95 - 47.52
+            <a href="https://www.airplantcity.com/products/hanging-globe-terrariums-with-double-hooks">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cute glass terrariums are perfect for our small variety Ionantha air plants</span></li>
+<li type="disc">
+<span>Add your </span>accessories or just an air plant for a minimalist look</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 5 inches tall</span></li>
+<li type="disc"><span>There is a loop on top and a hook on the bottom so you can chain them together</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 4 Inches</td>
+<td>5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>double hook</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>hanging</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274155075</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-DOUBLEHOOK-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274155075</id>
+      <title>6 Pack - Save 10%</title>
+      <s:price currency="USD">26.73</s:price>
+      <s:sku>6-DOUBLEHOOK-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274155075</id>
+      <title>12 Pack - Save 20%</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>12-DOUBLEHOOK-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274158595</id>
+    <published>2017-01-10T17:45:00-05:00</published>
+    <updated>2017-01-10T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/hanging-round-bottom-glass-terrariums"/>
+    <title>Hanging Round Bottom Glass Terrariums</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/glass-_hanging_globe.jpg?v=1571317292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            4.95 - 47.52
+            <a href="https://www.airplantcity.com/products/hanging-round-bottom-glass-terrariums">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cute glass terrariums are perfect for our small variety Ionantha air plants</span></li>
+<li type="disc">
+<span>Add your </span>accessories or just an air plant for a minimalist look</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 4.5 inches tall</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 4 Inches</td>
+<td>4.5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>hanging</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274158595</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-ROUNDBOTTOM-ONLY</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274158595</id>
+      <title>6 Pack - Save 10%</title>
+      <s:price currency="USD">26.73</s:price>
+      <s:sku>6-ROUNDBOTTOM-ONLY</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274158595</id>
+      <title>12 Pack - Save 20%</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>12-ROUNDBOTTOM-ONLY</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274144131</id>
+    <published>2017-01-10T17:39:00-05:00</published>
+    <updated>2017-01-10T17:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/hanging-flat-bottom-glass-terrariums"/>
+    <title>Hanging Flat Bottom Glass Terrariums</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/glass-_hanging_flat_bottom.jpg?v=1571317291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            4.95 - 47.52
+            <a href="https://www.airplantcity.com/products/hanging-flat-bottom-glass-terrariums">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cute glass terrariums are perfect for our small variety Ionantha air plants</span></li>
+<li type="disc">
+<span>Add your own </span>accessories or just a single air plant for a minimalist look</li>
+<li type="disc">Set anywhere on its flat bottom</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 4.5 inches tall</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 4 Inches</td>
+<td>4.5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass terrarium</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274144131</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-FLAT-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274144131</id>
+      <title>6 Pack - Save 10%</title>
+      <s:price currency="USD">26.73</s:price>
+      <s:sku>6-FLAT-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274144131</id>
+      <title>12 Pack - Save 20%</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>12-FLAT-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9270233539</id>
+    <published>2017-01-05T15:41:00-05:00</published>
+    <updated>2017-01-05T15:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/air-plant-bromeliad-fertilizer-packet-one-year-supply"/>
+    <title>Air Plant &amp; Bromeliad Fertilizer Packet - One Year Supply</title>
+    <s:type></s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/airplantcity_tillandsia_airplants-Fertilzer-205.jpg?v=1571317289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.75 - 23.75
+            <a href="https://www.airplantcity.com/products/air-plant-bromeliad-fertilizer-packet-one-year-supply">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Directions</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Formula: 17-8-22</span></li>
+<li type="disc"><span>One Year Supply of Air Plant (Bromeliad) Fertilizer</span></li>
+<li type="disc"><span>Specially formulated for air plants</span></li>
+<li type="disc">Encourage blooms and reproduction through pups</li>
+<li type="disc"><span>Instruction card included with every packet</span></li>
+<li type="disc"><span>May be added to spray bottles for easy application</span></li>
+<li type="disc"><span>About 1 Year's worth of fertilizer for the average air plant/tillandsia enthusiast. This packet will make at least 12 gallons of fertilizer mixture. We recommend fertilizing your plants once per month.</span></li>
+</ol>
+</li>
+<li class="active" id="tab2">
+<strong>DIRECTIONS:</strong> Add 1/4 teaspoon to a gallon of water and soak your air plants in the diluted mixture for 20 to 40 minutes once per month. The package comes with instructions and a one year supply of fertilizer. This is a very small package of fertilizer that will easily last for 12 months. It only takes 1/4 teaspoon of fertilizer per gallon of water. This package will make 12 gallons or 12 months</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>fertilizer</s:tag>
+    <s:tag>food</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>grow more</s:tag>
+    <s:tag>plant food</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9270233539</id>
+      <title>Single</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>1-FERTILIZER</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9270233539</id>
+      <title>3 Pack</title>
+      <s:price currency="USD">14.25</s:price>
+      <s:sku>3-FERTILIZER</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9270233539</id>
+      <title>5 Pack</title>
+      <s:price currency="USD">23.75</s:price>
+      <s:sku>5-FERTILIZER</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274159363</id>
+    <published>2017-01-05T14:12:00-05:00</published>
+    <updated>2017-01-05T14:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/large-glass-terrarium-with-2-open-ends"/>
+    <title>Large Glass Terrarium with 2 Open Ends</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/IMG_3525-36.jpg?v=1571317292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            14.95 - 71.76
+            <a href="https://www.airplantcity.com/products/large-glass-terrarium-with-2-open-ends">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>This is a large terrarium with a flat bottom that is perfect for table-side accents, centerpieces, or gifts.</span></li>
+<li type="disc">
+<span>Add your </span>accessories or just an air plant for a minimalist look</li>
+<li type="disc"><span>These glass terrariums are 5.5 inches wide and 5 inches tall</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td> 5.5 Inches</td>
+<td>5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul style="line-height: 1.4;" class="productsize"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant terrarium</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass teardrop</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274159363</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1-LG TERRARIUM-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274159363</id>
+      <title>3 Pack - Save 10%</title>
+      <s:price currency="USD">40.37</s:price>
+      <s:sku>3-LG TERRARIUM-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274159363</id>
+      <title>6 Pack - Save 20%</title>
+      <s:price currency="USD">71.76</s:price>
+      <s:sku>6-LG-TERRARIUM-ONLY</s:sku>
+      <s:grams>2313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9274161795</id>
+    <published>2017-01-05T14:11:00-05:00</published>
+    <updated>2017-01-05T14:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/teardrop-glass-terrariums"/>
+    <title>Teardrop Glass Terrariums</title>
+    <s:type>terrarium</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/glass-_teardrop.jpg?v=1571317292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>terrarium<br>
+        <strong>Price: </strong>
+            4.95 - 47.52
+            <a href="https://www.airplantcity.com/products/teardrop-glass-terrariums">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cute glass teardrop-shaped terrariums are perfect for our small variety Ionantha air plants</span></li>
+<li type="disc">
+<span>Add your </span>accessories or just an air plant for a minimalist design</li>
+<li type="disc">Set anywhere on its flat bottom</li>
+<li type="disc"><span>These glass terrariums are 4 inches wide and 5 inches tall</span></li>
+<li type="disc"><span>No air plants included in this order</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table>
+<tbody>
+<tr>
+<td><strong>Width</strong></td>
+<td><strong>Height</strong></td>
+</tr>
+<tr>
+<td>3 Inches</td>
+<td>5 Inches</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul style="line-height: 1.4;" class="productsize"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant terrarium</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>flat bottom</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glass teardrop</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>hanging</s:tag>
+    <s:tag>teardrop</s:tag>
+    <s:tag>terrarium</s:tag>
+    <s:tag>terrariums</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274161795</id>
+      <title>Single Terrarium</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1-TEAR-ONLY</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274161795</id>
+      <title>6 Pack - Save 10%</title>
+      <s:price currency="USD">26.73</s:price>
+      <s:sku>6-TEAR-ONLY</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9274161795</id>
+      <title>12 Pack - Save 20%</title>
+      <s:price currency="USD">47.52</s:price>
+      <s:sku>12-TEAR-ONLY</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

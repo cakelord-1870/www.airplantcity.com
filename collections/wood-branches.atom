@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.airplantcity.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.airplantcity.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.airplantcity.com/collections/wood-branches.atom"/>
+  <title>Air Plant City</title>
+  <updated>2019-10-23T11:21:24-04:00</updated>
+  <author>
+    <name>Air Plant City</name>
+  </author>
+  <entry>
+    <id>https://www.airplantcity.com/products/4302255521891</id>
+    <published>2019-10-23T11:21:24-04:00</published>
+    <updated>2019-10-23T11:21:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/packs-of-3-or-6-small-cork-bark-slabs-with-assorted-air-plants-waterproof-glue-save-25"/>
+    <title>Packs of 3 or 6 Small Cork Bark Slabs with Assorted Air Plants + Waterproof Glue - Save 25%</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Cork_Bark_With_Tillandsia_Air_Plants_18_619c78d3-fc37-477a-9b77-506d179ff319.jpg?v=1624641836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            33.63 - 67.27
+            <a href="https://www.airplantcity.com/products/packs-of-3-or-6-small-cork-bark-slabs-with-assorted-air-plants-waterproof-glue-save-25">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cork bark is a perfect medium for displaying air plants, orchids and bromeliads. You can create beautiful wall hangings by attaching a wire and mounting screw. Cork bark replicates one of the air plants' favorite natural hosts, the branches and trunks of tropical trees. For each piece of cork bark measuring about 4 X 6 inches, you will receive 3 air plants. Buy a 3 pack and receive 3 pieces of cork bark and 9 air plants. Buy a 6 pack and receive 6 pieces of cork bark and 18 air plants. These are a great size for unique crafts and hand-made gifts.</span></li>
+</ol>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><b>Dimensions</b></td>
+<td><strong> Included Plants Per Piece</strong></td>
+</tr>
+<tr>
+<td><strong>Small</strong></td>
+<td>4 X 6 in</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant container</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>branches</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>drift wood</s:tag>
+    <s:tag>driftwood</s:tag>
+    <s:tag>grapevine wood</s:tag>
+    <s:tag>grapewood</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>mopane wood</s:tag>
+    <s:tag>mopani wood</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>rustic wood</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia holder</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4302255521891</id>
+      <title>3 Pack - 25% Off</title>
+      <s:price currency="USD">33.63</s:price>
+      <s:sku>3-SM-CORK-9-PLANTS-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/4302255521891</id>
+      <title>6 Pack - 25% Off</title>
+      <s:price currency="USD">67.27</s:price>
+      <s:sku>6-SM-CORK-18-PLANTS-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1512223899747</id>
+    <published>2019-02-25T13:01:45-05:00</published>
+    <updated>2019-02-25T13:01:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/rustic-cork-bark-slabs-wateproof-glue-no-plants-included"/>
+    <title>Rustic Cork Bark Slabs + Wateproof Glue [No plants included]</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Cork_Bark_Tillandsia_Air_Plants11_ff545164-9c1c-445a-9c37-12096adb06c3.jpg?v=1571317302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            2.95 - 19.95
+            <a href="https://www.airplantcity.com/products/rustic-cork-bark-slabs-wateproof-glue-no-plants-included">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cork bark is a perfect medium for displaying air plants, orchids and bromeliads. You can create beautiful wall hangings by attaching a wire and mounting screw. Cork bark replicates one of the air plants' favorite natural hosts, the branches and trunks of tropical trees. </span></li>
+</ol>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><b>Dimensions</b></td>
+</tr>
+<tr>
+<td><strong>Chunk</strong></td>
+<td>1 X 3 in</td>
+</tr>
+<tr>
+<td><strong>Small</strong></td>
+<td>4 X 6 in</td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>7 X 9 in</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>10 X 16 in</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant container</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>branches</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>drift wood</s:tag>
+    <s:tag>driftwood</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>grapevine wood</s:tag>
+    <s:tag>grapewood</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>mopane wood</s:tag>
+    <s:tag>mopani wood</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>rustic wood</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia holder</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1512223899747</id>
+      <title>Chunk</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>1-CHUNK-CORK-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1512223899747</id>
+      <title>Small</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>1-SM-CORK-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1512223899747</id>
+      <title>Medium</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>1-MD-CORK-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1512223899747</id>
+      <title>Large</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>1-LG-CORK-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/1486633042019</id>
+    <published>2019-02-25T13:01:45-05:00</published>
+    <updated>2019-02-25T13:01:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/rustic-cork-bark-slabs-with-assorted-air-plants"/>
+    <title>Rustic Cork Bark Slabs with Assorted Air Plants + Waterproof Glue</title>
+    <s:type>air plant</s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/Cork_Bark_With_Tillandsia_Air_Plants_12_6d3bf454-3579-46fc-885b-c17529d4e7bc.jpg?v=1624642393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong>air plant<br>
+        <strong>Price: </strong>
+            6.95 - 32.95
+            <a href="https://www.airplantcity.com/products/rustic-cork-bark-slabs-with-assorted-air-plants">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--Start tab labels-->
+<ul class="tabs">
+<li><a class="active" href="#tab1">Description</a></li>
+<li><a href="#tab2">Size</a></li>
+</ul>
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<ol>
+<li type="disc"><span>Cork bark is a perfect medium for displaying air plants, orchids and bromeliads. You can create beautiful wall hangings by attaching a wire and mounting screw. Cork bark replicates one of the air plants' favorite natural hosts, the branches and trunks of tropical trees. Air plants are included included in this listing. 1-5 plants are included depending on the size of the bark. See the size chart for how many plants are included. </span></li>
+</ol>
+</li>
+<li id="tab2">
+<table width="100%">
+<tbody>
+<tr>
+<td><strong>Size</strong></td>
+<td><b>Dimensions</b></td>
+<td><strong> Included Plants Per Piece</strong></td>
+</tr>
+<tr>
+<td><strong>Chunk</strong></td>
+<td>1 X 3 in</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Small</strong></td>
+<td>4 X 6 in</td>
+<td>3</td>
+</tr>
+<tr>
+<td><strong>Medium</strong></td>
+<td>7 X 9 in</td>
+<td>4</td>
+</tr>
+<tr>
+<td><strong>Large</strong></td>
+<td>10 X 16 in</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<ul class="tabs-content"></ul>
+<p> </p>
+<ul style="line-height: 1.4;" class="productsize"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plant collections</s:tag>
+    <s:tag>air plant container</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>branches</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>drift wood</s:tag>
+    <s:tag>driftwood</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>grapevine wood</s:tag>
+    <s:tag>grapewood</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>mopane wood</s:tag>
+    <s:tag>mopani wood</s:tag>
+    <s:tag>queen</s:tag>
+    <s:tag>rustic wood</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>tillandsia holder</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486633042019</id>
+      <title>Chunk</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>1-CHUNK-CORK-1 PLANT-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486633042019</id>
+      <title>Small</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>1-SM-CORK-3-PLANT-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486633042019</id>
+      <title>Medium</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>1-MD-CORK-4-PLANT-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/1486633042019</id>
+      <title>Large</title>
+      <s:price currency="USD">32.95</s:price>
+      <s:sku>1-LG-CORK-5-PLANTS-GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.airplantcity.com/products/9733023171</id>
+    <published>2017-03-23T12:51:00-04:00</published>
+    <updated>2017-03-23T12:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.airplantcity.com/products/e-6000-glue-waterproof-glue-for-attaching-air-plants-0-5-oz"/>
+    <title>E-6000 Glue - Waterproof Glue for Attaching Air Plants - 0.5 OZ</title>
+    <s:type></s:type>
+    <s:vendor>Air Plant City</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1681/0005/products/2410728_900x_06d004d5-dbda-47a0-9dee-bce2c92f1fbd.jpg?v=1624591947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Air Plant City<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<p>Glue for mounting your plants on various items such as driftwood, cork bark, plant frames, and metal</p>
+</li>
+<li>
+<p>Waterproof and very strong</p>
+</li>
+<li>
+<p>The tube will adhere up to 20-50 plants to almost any surface</p>
+</li>
+<li>.05 oz size </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>air plant</s:tag>
+    <s:tag>air plants</s:tag>
+    <s:tag>airplant</s:tag>
+    <s:tag>airplants</s:tag>
+    <s:tag>e6000</s:tag>
+    <s:tag>Google Shopping Capable</s:tag>
+    <s:tag>magnet</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>mount air plants</s:tag>
+    <s:tag>tillandsia</s:tag>
+    <s:tag>tilly tacker</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://www.airplantcity.com/products/9733023171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>GLUE</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>
